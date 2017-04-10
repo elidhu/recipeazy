@@ -1,6 +1,6 @@
-#Recipeazy
+# Recipeazy
 
-####<i>Just general notes to describe the functionality I want to have in my program
+#### <i>Just general notes to describe the functionality I want to have in my program
 
 <i>
 Making dinner easy by enabling the user to find and collect recipes that they can later select to 'cook' at which point the order will be placed with a local supermarket with online ordering capability, it will only order from Coles to begin with!
@@ -8,7 +8,7 @@ Making dinner easy by enabling the user to find and collect recipes that they ca
 NOTE: You still need to do the actual cooking
 </i>
 
-###Functionality
+### Functionality
 
 - Scrape a variety of recipe websites for specific recipes and add them to the database
 - Display the recipes in a GUI including the cooking time, ingredients and an image of the meal
