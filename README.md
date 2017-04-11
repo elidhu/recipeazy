@@ -1,10 +1,10 @@
 # Recipeazy
 
-#### <i>Just general notes to describe the functionality I want to have in my program
+#### *Just general notes to describe the functionality I want to have in my program*
 
 *Making dinner easy by enabling the user to find and collect recipes that they can later select to 'cook' at which point the order will be placed with a local supermarket with online ordering capability, it will only order from Coles to begin with!*
 
-*NOTE: You still need to do the actual cooking*
+*__NOTE__: You still need to do the actual cooking*
 
 ### Functionality
 
